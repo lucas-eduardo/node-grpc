@@ -6,6 +6,8 @@
   Exemplo de implementação gRPC NodeJs
 </h3>
 
+<a href="https://www.linkedin.com/pulse/entendo-o-grpc-e-exemplo-de-implementa%25C3%25A7%25C3%25A3o-node-lucas-eduardo" target="_blank">Artigo no linkedin</a>
+
 ## Iniciando a aplicação do micro-service
 
 Basta entrar na pasta **micro-service** e rodar os seguintes comandos:
